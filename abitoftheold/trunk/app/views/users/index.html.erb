@@ -1,0 +1,17 @@
+<h1>A bit of the old...</h1>
+<table>
+  <tr>
+    <th>Pin</th>
+    <th>Name</th>
+    <th>Status</th>
+    <th>Do stuff</th>
+  </tr>
+<% @users.each do |user| %>
+  <tr>
+    <td><%= user[:id] %>
+    <td><%= user[:name]%>
+      <td id="status<%= user[:id]%>"><%= user[:status]%>
+    <td><%= link_to 'Change Status', '#', {:class => 'change_status', :id => user[:id], :status => user[:status]} %></td>
+  </tr>
+<% end %>
+</table>

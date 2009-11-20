@@ -1,0 +1,27 @@
+@import blueprint.sass
+@import blueprint/modules/grid.sass
+@import compass/reset.sass, compass/utilities.sass
+
+=round-dat-shit
+  -moz-border-radius: 7px
+  -webkit-border-radius: 7px
+  -o-border-radius: 7px
+
+body.bp
+  +blueprint-typography
+  +blueprint-form
+
+  background-color: #FFF
+
+#container
+  +container
+  
+  h1
+    padding-top: 3
+  table
+    border: 1px solid #f0f
+    border-collapse: collapse
+  td
+    border: 1px solid #f0f
+  th
+    color: #ccc000

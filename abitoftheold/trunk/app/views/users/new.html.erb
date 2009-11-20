@@ -1,0 +1,12 @@
+<h1>New user</h1>
+
+<% form_for(@user) do |f| %>
+  <%= f.error_messages %>
+  <label for="user_name">Name</label><br />
+  <input id="user_name" maxlength="255" name="user[name]" class="text" type="text" /><br />
+  <label for="user_status">Status</label><br />
+  <input id="user_status" name="user[status]" class="text" type="text" /><br />
+    <%= f.submit 'Create' %>
+<% end %>
+
+<%= link_to 'Back', users_path %>

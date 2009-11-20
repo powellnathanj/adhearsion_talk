@@ -1,0 +1,436 @@
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :callingpres=>0, :uniqueid=>1257167192.6, :dnid=>411, :request=>#<URI::Generic:0x7f7bb8362140 URL:agi://localhost>, :callingtns=>0, :query=>{}, :threadid=>140656558930192, :accountcode=>"", :callerid=>100, :calleridname=>"Nathan Powell", :context=>"adhearsion", :extension=>411, :type_of_calling_number=>:unknown, :language=>"en", :rdnis=>nil, :version=>"1.6.2.0~rc2-0ubuntu1", :network=>true, :channel=>"SIP/100-4fef74d8", :enhanced=>0.0, :callingani2=>0, :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :callingpres=>0, :uniqueid=>1257167211.7, :dnid=>411, :request=>#<URI::Generic:0x7f7bb8344118 URL:agi://localhost>, :callingtns=>0, :query=>{}, :threadid=>140656558930192, :accountcode=>"", :callerid=>100, :calleridname=>"Nathan Powell", :context=>"adhearsion", :extension=>411, :type_of_calling_number=>:unknown, :language=>"en", :rdnis=>nil, :version=>"1.6.2.0~rc2-0ubuntu1", :network=>true, :channel=>"SIP/100-4fef38b8", :enhanced=>0.0, :callingani2=>0, :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :callingpres=>0, :uniqueid=>1257167217.8, :dnid=>411, :request=>#<URI::Generic:0x7f7bb8330eb0 URL:agi://localhost>, :callingtns=>0, :query=>{}, :threadid=>140656558930192, :accountcode=>"", :callerid=>100, :calleridname=>"Nathan Powell", :context=>"adhearsion", :extension=>411, :type_of_calling_number=>:unknown, :language=>"en", :rdnis=>nil, :version=>"1.6.2.0~rc2-0ubuntu1", :network=>true, :channel=>"SIP/100-4ff37548", :enhanced=>0.0, :callingani2=>0, :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :callingpres=>0, :uniqueid=>1257167272.9, :dnid=>411, :request=>#<URI::Generic:0x7f7bb831fcc8 URL:agi://localhost>, :callingtns=>0, :query=>{}, :threadid=>140656558930192, :accountcode=>"", :callerid=>100, :calleridname=>"Nathan Powell", :context=>"adhearsion", :extension=>411, :type_of_calling_number=>:unknown, :language=>"en", :rdnis=>nil, :version=>"1.6.2.0~rc2-0ubuntu1", :network=>true, :channel=>"SIP/100-4ff29d38", :enhanced=>0.0, :callingani2=>0, :priority=>2}
+ INFO ahn: Shutting down gracefully at Mon Nov 02 08:08:11 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :callingpres=>0, :uniqueid=>1257167297.1, :dnid=>411, :request=>#<URI::Generic:0x7fd3b124c070 URL:agi://localhost>, :callingtns=>0, :query=>{}, :threadid=>140656558930192, :accountcode=>"", :callerid=>100, :calleridname=>"Nathan Powell", :context=>"adhearsion", :extension=>411, :type_of_calling_number=>:unknown, :language=>"en", :rdnis=>nil, :version=>"1.6.2.0~rc2-0ubuntu1", :network=>true, :channel=>"SIP/100-4ff29d38", :enhanced=>0.0, :callingani2=>0, :priority=>2}
+ INFO ahn: Shutting down gracefully at Mon Nov 02 08:10:11 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:18:38 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337153.0, :rdnis=>nil, :request=>#<URI::Generic:0x7f545eda13f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251745040, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a03b78", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337221.1, :rdnis=>nil, :request=>#<URI::Generic:0x7f545ed87250 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251745040, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a03b78", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337451.2, :rdnis=>nil, :request=>#<URI::Generic:0x7f545ed78d90 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251745040, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a03b78", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337501.4, :rdnis=>nil, :request=>#<URI::Generic:0x7f545ed6b1b8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:25:08 -0500 2009.
+ERROR agi: #<RuntimeError: stop>
+ERROR agi:      /usr/lib/ruby/1.8/gserver.rb:241:in `read'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/commands.rb:65:in `raw_response'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/commands.rb:736:in `wait_for_digit'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/commands.rb:396:in `input'
+     /root/talk/dialplan.rb:2:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337521.5, :rdnis=>nil, :request=>#<URI::Generic:0x7f2e905d6770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:29:00 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337780.6, :rdnis=>nil, :request=>#<URI::Generic:0x7fc5a261c640 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337794.7, :rdnis=>nil, :request=>#<URI::Generic:0x7fc5a26021c8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:30:09 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337901.8, :rdnis=>nil, :request=>#<URI::Generic:0x7f547b3de088 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:31:54 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257337930.9, :rdnis=>nil, :request=>#<URI::Generic:0x7fc64edc0408 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:49:49 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257339094.1, :rdnis=>nil, :request=>#<URI::Generic:0x7f5f30590088 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 07:54:57 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340129.11, :rdnis=>nil, :request=>#<URI::Generic:0x7ff407033088 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:09:06 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340170.12, :rdnis=>nil, :request=>#<URI::Generic:0x7f8add615408 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:09:49 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340319.13, :rdnis=>nil, :request=>#<URI::Generic:0x7fa83e9a33f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:12:31 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340381.14, :rdnis=>nil, :request=>#<URI::Generic:0x7f727900c3f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:13:09 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340418.15, :rdnis=>nil, :request=>#<URI::Generic:0x7fd3c39b8770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:13:44 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340609.16, :rdnis=>nil, :request=>#<URI::Generic:0x7f23546663f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<NameError: undefined local variable or method `desirec_extension' for #<Adhearsion::DialPlan::ExecutionEnvironment:0x7f2354655148>>
+ERROR agi:      /root/talk/dialplan.rb:4:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:17:01 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340641.17, :rdnis=>nil, :request=>#<URI::Generic:0x7f74cd7ab770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:17:30 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257340669.18, :rdnis=>nil, :request=>#<URI::Generic:0x7f2aabe75770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257341174.19, :rdnis=>nil, :request=>#<URI::Generic:0x7f2aabe5a2b8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140551251237136, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-c9a15638", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Wed Nov 04 08:26:21 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257364437.5, :rdnis=>nil, :request=>#<URI::Generic:0x7f6e5a23c3f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140708471380240, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-66655a48", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Adhearsion initialized!
+FATAL ahn: Failed to start AGI server! #<Errno::EADDRINUSE: Address already in use - bind(2)>
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257460199.0, :rdnis=>nil, :request=>#<URI::Generic:0x7f6632c00770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579109476624, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462bfca8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257460377.1, :rdnis=>nil, :request=>#<URI::Generic:0x7f6632be5768 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257462626.2, :rdnis=>nil, :request=>#<URI::Generic:0x7f6632bd6d08 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:4:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257462684.3, :rdnis=>nil, :request=>#<URI::Generic:0x7f6632ac15a8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:4:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257462713.4, :rdnis=>nil, :request=>#<URI::Generic:0x7f6632aafe70 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:4:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO ahn: Shutting down gracefully at Thu Nov 05 18:19:27 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257463241.5, :rdnis=>nil, :request=>#<URI::Generic:0x7ff8db719770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:5:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257463452.6, :rdnis=>nil, :request=>#<URI::Generic:0x7ff8db5f7a18 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:5:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257463468.7, :rdnis=>nil, :request=>#<URI::Generic:0x7ff8db5e61f0 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:5:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257463533.9, :rdnis=>nil, :request=>#<URI::Generic:0x7ff8db5d4a90 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:5:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO ahn: Shutting down gracefully at Thu Nov 05 19:09:10 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257466284.12, :rdnis=>nil, :request=>#<URI::Generic:0x7fa322d44640 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462bfca8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Thu Nov 05 19:11:46 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257466322.13, :rdnis=>nil, :request=>#<URI::Generic:0x7f1f2759e640 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140579106777360, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-462c1948", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Thu Nov 05 19:13:47 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480423.0, :rdnis=>nil, :request=>#<URI::Generic:0x7fc56e250770 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13cca8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Thu Nov 05 23:07:30 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480546.1, :rdnis=>nil, :request=>#<URI::Generic:0x7fbef08be640 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480556.2, :rdnis=>nil, :request=>#<URI::Generic:0x7fbef0741060 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480566.3, :rdnis=>nil, :request=>#<URI::Generic:0x7fbef072ccf0 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Thu Nov 05 23:10:11 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480626.5, :rdnis=>nil, :request=>#<URI::Generic:0x7f9259c55088 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480636.6, :rdnis=>nil, :request=>#<URI::Generic:0x7f9259ad79b8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ERROR agi: #<ActiveRecord::RecordNotFound: Couldn't find User with ID=>
+ERROR agi:      /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1586:in `find_one'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:1569:in `find_from_ids'
+     /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.4/lib/active_record/base.rb:616:in `find'
+     /root/talk/dialplan.rb:5:in `load'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `instance_eval'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:50:in `run'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:105:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/dial_plan.rb:81:in `handle'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:23:in `serve'
+     /usr/lib/ruby/1.8/gserver.rb:211:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:208:in `start'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `initialize'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `new'
+     /usr/lib/ruby/1.8/gserver.rb:198:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/voip/asterisk/agi_server.rb:69:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer/asterisk.rb:56:in `join_server_thread_after_initialized'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `call'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:66:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `map'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/theatre.rb:63:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/events_support.rb:47:in `trigger_immediately'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:349:in `trigger_after_initialized_hooks'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:143:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/initializer.rb:92:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:129:in `start'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `send'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/lib/adhearsion/cli.rb:19:in `execute!'
+     /usr/lib/ruby/gems/1.8/gems/adhearsion-0.8.2/bin/ahn:28
+     /usr/bin/ahn:19:in `load'
+     /usr/bin/ahn:19
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480653.7, :rdnis=>nil, :request=>#<URI::Generic:0x7f9259ac5df8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480660.8, :rdnis=>nil, :request=>#<URI::Generic:0x7f9259ab1b00 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257480694.9, :rdnis=>nil, :request=>#<URI::Generic:0x7f9259a9d808 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438059280, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Thu Nov 05 23:12:06 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO ahn: Shutting down gracefully at Fri Nov 06 07:14:14 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257509678.11, :rdnis=>nil, :request=>#<URI::Generic:0x7f8896d6c538 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438567184, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257509696.12, :rdnis=>nil, :request=>#<URI::Generic:0x7f8896beef58 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438567184, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1257512749.13, :rdnis=>nil, :request=>#<URI::Generic:0x7f8896bdac88 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140164438567184, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-ba13f8a8", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Sat Nov 07 02:44:36 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1258464805.2, :rdnis=>nil, :request=>#<URI::Generic:0x7f7010c5b408 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>139909338245392, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-54853a08", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
+ INFO ahn: Shutting down gracefully at Tue Nov 17 08:41:25 -0500 2009.
+ INFO ahn: Adhearsion initialized!
+ INFO agi: Handling call with variables {:type=>"SIP", :language=>"en", :accountcode=>"", :uniqueid=>1258674633.3, :rdnis=>nil, :request=>#<URI::Generic:0x7f7caa0c13f8 URL:agi://localhost>, :network=>true, :query=>{}, :callingani2=>0, :callerid=>100, :context=>"adhearsion", :extension=>411, :enhanced=>0.0, :type_of_calling_number=>:unknown, :dnid=>411, :callingpres=>0, :threadid=>140476893034768, :version=>"1.6.2.0~rc2-0ubuntu1", :channel=>"SIP/100-797cd328", :callingtns=>0, :calleridname=>"Nathan Powell", :priority=>2}
